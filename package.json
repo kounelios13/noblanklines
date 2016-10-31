@@ -13,5 +13,17 @@
     "blank-lines"
   ],
   "author": "kounelios13",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kounelios13/noblanklines.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kounelios13/noblanklines/issues"
+  },
+  "homepage": "https://github.com/kounelios13/noblanklines#readme"
 }
