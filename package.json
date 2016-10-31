@@ -1,0 +1,14 @@
+{
+  "name": "remove-blank-lines",
+  "version": "1.0.0",
+  "description": "remove emty(blank) lines from a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blank-lines"
+  ],
+  "author": "kounelios13",
+  "license": "ISC"
+}
